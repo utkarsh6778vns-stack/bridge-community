@@ -3,7 +3,7 @@
 A pixel-perfect React Native (Expo) implementation of the **Bridge Community** screen — designed to help users find soulmates by matching and connecting people within their community.
 
 <p align="center">
-  <img src="assets/screenshots/community.png" alt="Bridge Community Screen" width="320"/>
+  <img src="assets/screenshots/Community.png" alt="Bridge Community Screen" width="320"/>
 </p>
 
 ---
